@@ -1,7 +1,7 @@
 name: forpawssake
 favicon: null
-layout_spectrum: 0.5840003117918968
-typography_spectrum: 0.5206298299599439
+layout_spectrum: 0
+typography_spectrum: 0.60324
 title: 'For Paws Sake! Pet Care'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.3538661783095449
-  lightness: 0.07030113390646875
-  saturation: 0.6401637815870345
-  rhythmicContrast: 0.5166930521372706
+    - '#ffffff'
+    - '#8fff39'
+    - '#5b6d74'
+    - '#d2d2d2'
+    - '#a2acb0'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.9375
+  rhythmicContrast: 0
 purpose: []
